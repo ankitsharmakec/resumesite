@@ -1,0 +1,175 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+
+.top_container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+
+
+}
+
+.middle-container {
+    background-color: white;
+    margin: 30px auto;
+
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    line-height: 2;
+    padding: 30px;
+
+
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5;
+
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    padding: 30px;
+    font-weight: bold;
+    text-decoration-line: none;
+
+}
+
+a:hover {
+    color: #f0f0f6;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #bbc7c6;
+    border-bottom: none;
+    width: 4%;
+    margin: 40px auto;
+}
+
+.bottom_cloud {
+    position: absolute;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+
+.a_programmer {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.intro{
+    width: 30%;
+    margin: 0 auto;
+}
+.profile_photo {
+    height: 20%;
+    width: 20%;
+    margin-top: 2%;
+
+}
+
+.python_logo {
+    height: 20%;
+    width: 20%;
+    margin-top: 2%;
+    float: left;
+    padding-right: 30px;
+}
+
+.sql_logo {
+    height: 20%;
+    width: 20%;
+    margin-top: 2%;
+    float: right;
+    padding-left: 30px;
+}
+
+.matlab_logo {
+    height: 20%;
+    width: 20%;
+    margin-top: 2%;
+    float: left;
+    padding-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    
+
+}
+.skills{
+    margin: 40px auto;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+
+.contact-me-description{
+    width: 40%;
+    margin: auto auto 40px auto ;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #1a4e6e);
+    background-image: -moz-linear-gradient(top, #3498db, #1a4e6e);
+    background-image: -ms-linear-gradient(top, #3498db, #1a4e6e);
+    background-image: -o-linear-gradient(top, #3498db, #1a4e6e);
+    background-image: linear-gradient(to bottom, #3498db, #1a4e6e);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Arial;
+    color: #eaf2f2;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+.show-credential{
+    text-decoration: none;
+    font-size: smaller;
+    
+}
